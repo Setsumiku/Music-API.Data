@@ -1,0 +1,14 @@
+C:\Users\WGBX73\source\repos\Music API.Data\bin\Debug\net6.0\Music API.Data.deps.json
+C:\Users\WGBX73\source\repos\Music API.Data\bin\Debug\net6.0\Music API.Data.runtimeconfig.json
+C:\Users\WGBX73\source\repos\Music API.Data\bin\Debug\net6.0\Music API.Data.dll
+C:\Users\WGBX73\source\repos\Music API.Data\bin\Debug\net6.0\Music API.Data.pdb
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.csproj.AssemblyReference.cache
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.AssemblyInfoInputs.cache
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.AssemblyInfo.cs
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.csproj.CoreCompileInputs.cache
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.dll
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\refint\Music API.Data.dll
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.pdb
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\Music API.Data.genruntimeconfig.cache
+C:\Users\WGBX73\source\repos\Music API.Data\obj\Debug\net6.0\ref\Music API.Data.dll
